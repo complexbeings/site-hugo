@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on Complex Beings</title>
-    <link>https://example.org/portfolio/index.xml</link>
+    <link>https://complexbeings.github.io/portfolio/index.xml</link>
     <description>Recent content in Portfolios on Complex Beings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Your name or company</copyright>
     <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
-    <atom:link href="https://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://complexbeings.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Theater applied</title>
-      <link>https://example.org/portfolio/theater-applied/</link>
+      <link>https://complexbeings.github.io/portfolio/theater-applied/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/theater-applied/</guid>
+      <guid>https://complexbeings.github.io/portfolio/theater-applied/</guid>
       <description>&lt;p&gt;We are a group of theater-makers and performance artists who work to bring theater into all kinds of organizations looking to strengthen social fabric within their organization and outside of it. We believe theater is a tool made by and for people.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -47,10 +47,10 @@
     
     <item>
       <title>Boston-ish Culture Network</title>
-      <link>https://example.org/portfolio/uijima-culture/</link>
+      <link>https://complexbeings.github.io/portfolio/uijima-culture/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/uijima-culture/</guid>
+      <guid>https://complexbeings.github.io/portfolio/uijima-culture/</guid>
       <description>
 
 &lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&lt;/p&gt;
